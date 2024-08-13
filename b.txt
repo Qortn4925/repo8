@@ -1,3 +1,4 @@
 안녕
 t1.1
 pairs
+status확인
