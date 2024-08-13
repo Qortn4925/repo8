@@ -2,3 +2,4 @@
 t1.1
 pairs
 status확인
+gapyung
