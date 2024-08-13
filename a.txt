@@ -4,3 +4,4 @@ korea
 france
 newyork
 seoul
+jeju
