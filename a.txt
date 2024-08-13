@@ -5,3 +5,4 @@ france
 newyork
 seoul
 jeju
+낄끼
